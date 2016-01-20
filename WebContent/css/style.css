@@ -1,0 +1,13 @@
+
+.navButton{
+	margin-top: 7px;
+}
+
+
+#pager{
+	background-image: url("../images/bg/bg1.jpg");
+	background-size: cover;
+	height: 100vh;
+	padding: 0px;
+	margin: 0px;
+}
